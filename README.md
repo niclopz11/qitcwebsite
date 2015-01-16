@@ -1,2 +1,0 @@
-# qitcwebsite
-website
